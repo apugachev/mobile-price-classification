@@ -1,2 +1,2 @@
-# Modern Methods of Data Analysis project
+# Modern Methods of Data Analysis Project
 ## Based on Mobile Price Classification dataset
